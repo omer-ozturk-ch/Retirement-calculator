@@ -1,0 +1,21 @@
+1- Prompt an age data from the user in number format.
+
+2- Control it if our age input is a number, if the user entered an information or not. If we have correct data go on pass the next stage, if we don't have ask the age again (by using +prompt).
+
+3- Control it if our retirement age input is a number, if the user entered an information or not and if the retirement age is greater than current age or not. If we have correct data go on pass the next stage, if we don't have ask the age again (by using +prompt).
+
+4- Define a current year variable by using the JavaScript features.
+
+5- Define two extra variables; retirementYear(for the retirement year information to be used in function) and leftYears(for the remaining years to the retirement, to be used in function).
+
+6- Set a function to calculate retirement year and left year to the retirement.
+
+7- For retirement year, subtract your current age from your retirement age and add current year.
+
+8- For left year information to your retirement year, subtract current year from retirement year.
+
+9- Determine and select your domain to print the retirement year information.
+
+10- Determine and select your domain to print the remaining year to your retirement information.
+
+11- Call your function and print it.

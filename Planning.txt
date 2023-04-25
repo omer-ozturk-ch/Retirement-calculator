@@ -1,0 +1,25 @@
+CONSTRAINTS
+1- We need to use "+prompt" to get numbers from our promter.
+2- We need to check if our age input is a number, if the user entered an information or not.
+3- We need to check if our retirement age input is a number, if the user entered an information or not and if the retirement age is greater than current age or not.
+
+
+
+OTHER INFORMATIONS
+INPUTS:
+1- age +prompt
+2- retirementAge +prompt
+
+OUTPUTS
+1- leftYears
+2- retirementYear
+
+CALCULATION
+1- retirementYears = (retirementAge - age)  + currentYear
+2- leftYears = retirementYear - currentYear
+
+PRINT
+1- 1 DOM for leftYears
+2- 1 DOM for retirementYear
+
+
